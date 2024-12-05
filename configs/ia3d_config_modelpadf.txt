@@ -1,0 +1,19 @@
+[MODELPADF]
+outpath = C:\Users\s3599678\OneDrive - RMIT University\PhD\scripts\model_padf\ia3d\results\
+tag = ia3d_3_3_3_channels_and_nearest
+subjectxyz = ia3d_3_3_3_channels_and_nearest.xyz
+supercellxyz = ia3d_3_3_3_channels_and_nearest.xyz
+use_supercell = True
+method = spharmonic
+mode = stm
+nlmin = 4
+nl = 64
+nr = 200
+nth = 360
+nthvol = 360
+nphivol = 720
+rmax = 50
+check_convergence = False
+convergence_target = 0.99
+r_power = 0
+nthreads = 2
